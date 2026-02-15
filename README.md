@@ -1,4 +1,4 @@
-```markdown
+
 # CLI Task Manager
 
 A lightweight, zero-dependency command-line task manager built with Node.js. Manage your daily tasks directly from your terminal with persistent local storage.
