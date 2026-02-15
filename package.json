@@ -1,0 +1,16 @@
+
+{
+  "name": "cli-task-manager",
+  "version": "1.0.0",
+  "description": "A simple command-line task manager with JSON storage",
+  "main": "task-manager.js",
+  "scripts": {
+    "start": "node task-manager.js"
+  },
+  "keywords": ["cli", "task-manager", "todo", "productivity"],
+  "author": "Your Name",
+  "license": "MIT",
+  "bin": {
+    "tasks": "./task-manager.js"
+  }
+}
